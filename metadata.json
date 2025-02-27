@@ -1,0 +1,30 @@
+{
+  "name": "TrumpGazaHotel",
+  "symbol": "TGHT",
+  "uri": "https://www.dropbox.com/scl/fi/bmzryueprr3156xfxs1f6/metadata.json?rlkey=061mi4dtde2x0sxsx8u6mwp0y&dl=1",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "69j94UQSAbgcDZV142XHxeXVSDk8VXyuZpdtNpEF53io",
+  "seller_fee_collection_address": "69j94UQSAbgcDZV142XHxeXVSDk8VXyuZpdtNpEF53io",
+  "image": "https://i.imgur.com/ivFCLLU.png",
+  "seller_fee_burn_address": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.imgur.com/ivFCLLU.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "digital",
+    "creators": [
+      {
+        "address": "69j94UQSAbgcDZV142XHxeXVSDk8VXyuZpdtNpEF53io",
+        "share": 100
+      }
+    ]
+  }
+}{
+  "name": "TrumpGazaHotel",
+  "symbol": "TGHT",
+  "image": "https://i.imgur.com/ivFCLLU.png",
+  "description": "Trump Musk build big wins"
+}
